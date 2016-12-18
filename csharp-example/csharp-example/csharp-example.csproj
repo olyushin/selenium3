@@ -62,6 +62,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ExampleTest.cs" />
+    <Compile Include="LitecartLoginByAdmin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
