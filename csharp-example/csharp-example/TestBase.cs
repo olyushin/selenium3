@@ -19,8 +19,6 @@ namespace csharp_example
             Driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
             Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(10));
             JsExecutor = (IJavaScriptExecutor)Driver;
-
-            Driver.Url = "http://localhost/litecart/admin/";
         }
 
         [TearDown]

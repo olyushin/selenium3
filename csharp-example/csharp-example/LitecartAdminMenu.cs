@@ -9,6 +9,8 @@ namespace csharp_example
         [Test]
         public void AdminMenu()
         {
+            Driver.Url = "http://localhost/litecart/admin/";
+
             Driver.FindElement(By.Name("username")).SendKeys("admin");
             Driver.FindElement(By.Name("password")).SendKeys("admin");
             Driver.FindElement(By.Name("login")).Click();
