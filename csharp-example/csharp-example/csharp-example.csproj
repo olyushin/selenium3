@@ -63,7 +63,9 @@
   <ItemGroup>
     <Compile Include="ExampleTest.cs" />
     <Compile Include="LitecartLoginByAdmin.cs" />
+    <Compile Include="LitecartAdminMenu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
