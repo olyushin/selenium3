@@ -61,7 +61,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="CountriesAreSorted.cs" />
     <Compile Include="ExampleTest.cs" />
+    <Compile Include="GeoZonesAreSorted.cs" />
     <Compile Include="LitecartLoginByAdmin.cs" />
     <Compile Include="LitecartAdminMenu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
