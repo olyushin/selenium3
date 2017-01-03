@@ -66,6 +66,7 @@
     <Compile Include="GeoZonesAreSorted.cs" />
     <Compile Include="LitecartLoginByAdmin.cs" />
     <Compile Include="LitecartAdminMenu.cs" />
+    <Compile Include="NewCustomerRegistration.cs" />
     <Compile Include="ProductDataIsCorrect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StickersArePresent.cs" />
