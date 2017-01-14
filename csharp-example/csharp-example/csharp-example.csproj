@@ -66,6 +66,7 @@
     <Compile Include="CountriesAreSorted.cs" />
     <Compile Include="ExampleTest.cs" />
     <Compile Include="GeoZonesAreSorted.cs" />
+    <Compile Include="LinksToNewWindows.cs" />
     <Compile Include="LitecartLoginByAdmin.cs" />
     <Compile Include="LitecartAdminMenu.cs" />
     <Compile Include="NewCustomerRegistration.cs" />
