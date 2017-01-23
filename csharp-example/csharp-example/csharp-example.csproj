@@ -62,8 +62,14 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AddNewProduct.cs" />
+    <Compile Include="App\Application.cs" />
     <Compile Include="BrowserLogs.cs" />
-    <Compile Include="CartTests.cs" />
+    <Compile Include="Pages\CartPage.cs" />
+    <Compile Include="Pages\MainPage.cs" />
+    <Compile Include="Pages\Page.cs" />
+    <Compile Include="Pages\ProductPage.cs" />
+    <Compile Include="Tests\CartTestBase.cs" />
+    <Compile Include="Tests\CartTests.cs" />
     <Compile Include="CountriesAreSorted.cs" />
     <Compile Include="ExampleTest.cs" />
     <Compile Include="GeoZonesAreSorted.cs" />
